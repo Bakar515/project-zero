@@ -7,9 +7,9 @@
 
 ## Overview
 
-In this project you set up your working tools, earn the Claude 101 certification, and build and deploy a portfolio website. Everything is done inside one GitHub repository and submitted there, so every step can be reviewed.
+In this project you set up your working tools, earn a full track of Claude certifications, and build and deploy a portfolio website. Everything is done inside one GitHub repository and submitted there, so every step can be reviewed.
 
-This is a one week project. You start with the certification, set up your two AI agents, learn each skill and create each account as you reach it, then build, deploy, and present.
+This is a one week project. You start with the certification track, set up your two AI agents, learn each skill and create each account as you reach it, then build, deploy, and present.
 
 ## How this works
 
@@ -37,11 +37,29 @@ project-zero/
   portfolio/           Your portfolio site code goes here.
 ```
 
-## Section 1: Claude 101
+## Section 1: Certifications
 
-Complete Claude 101, the introductory course on working with Claude, and earn the certificate. The course is here: https://anthropic.skilljar.com/claude-101. This grounds you in the tool behind your agents and your daily coding.
+Before you touch any of the setup below, complete this full certification track, in order. It grounds you in the tool behind your agents and your daily coding, and it is free.
 
-Submit: save the certificate or its link in the proof folder, and record the link in PRESENTATION.md.
+**Phase 1: Claude & AI Foundations**
+
+- [Claude 101](https://anthropic.skilljar.com/claude-101)
+- [AI Fluency: Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations)
+- [AI Capabilities and Limitations](https://anthropic.skilljar.com/ai-capabilities-and-limitations)
+- [AI Fluency for Students](https://anthropic.skilljar.com/ai-fluency-for-students)
+
+**Phase 2: Transitioning to the Developer Platform**
+
+- [Claude Platform 101](https://anthropic.skilljar.com/claude-platform-101)
+
+**Phase 3: Claude Code & Agentic Workflows**
+
+- [Claude Code 101](https://anthropic.skilljar.com/claude-code-101)
+- [Introduction to agent skills](https://anthropic.skilljar.com/introduction-to-agent-skills)
+- [Introduction to subagents](https://anthropic.skilljar.com/introduction-to-subagents)
+- [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
+
+Submit: save each certificate or its link in the proof folder, and record all nine links in PRESENTATION.md.
 
 ## Section 2: Set up your two AI agents
 
@@ -107,7 +125,7 @@ This is where your presentation skills begin. We will give you feedback and you 
 
 ## What to submit
 
-- [ ] Claude 101 certificate link, in proof and PRESENTATION.md
+- [ ] All nine certification links, in proof and PRESENTATION.md
 - [ ] Both agents installed, screenshots in proof
 - [ ] ClickUp board built and loaded with a ticket per step, screenshot in proof
 - [ ] GitHub set up: professional username, two-factor on, SSH push working

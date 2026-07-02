@@ -14,9 +14,17 @@ Fill this file in as you go. This is what you submit and what you present from o
 - Project board (ClickUp):
 - Loom walkthrough video:
 
-## Certification
+## Certifications
 
-- Claude 101 certificate or proof link:
+- Claude 101:
+- AI Fluency: Framework & Foundations:
+- AI Capabilities and Limitations:
+- AI Fluency for Students:
+- Claude Platform 101:
+- Claude Code 101:
+- Introduction to agent skills:
+- Introduction to subagents:
+- Claude Code in Action:
 
 ## Artifacts
 
