@@ -17,7 +17,7 @@ This is a one week project. You start with the certification, set up your two AI
 - Work through the sections below in order, inside your fork.
 - As you finish each step, commit your work and save your proof, a link or a screenshot, into the proof folder.
 - When everything is done, fill in PRESENTATION.md with every link, artifact, and proof of learning.
-- Add hamza@techsupersonic.com as a collaborator on your fork.
+- Add the provided email address as a collaborator on your fork.
 - Schedule a call and present your work.
 
 ## Repository structure
@@ -120,7 +120,7 @@ This is where your presentation skills begin. We will give you feedback and you 
 - [ ] Loom walkthrough recorded, link in PRESENTATION.md
 - [ ] GitHub profile README live
 - [ ] PRESENTATION.md and LEARNING_LOG.md complete
-- [ ] hamza@techsupersonic.com added as a collaborator
+- [ ] Provided email address added as a collaborator
 - [ ] Call scheduled
 
 ---
