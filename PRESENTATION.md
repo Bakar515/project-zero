@@ -4,27 +4,27 @@ Fill this file in as you go. This is what you submit and what you present from o
 
 ## Candidate
 
-- Name:
-- Date submitted:
+- Name: Muhammad Abubakar
+- Date submitted: 22-07-2026
 
 ## Links
 
-- Live site (Vercel):
-- Repository:
-- Project board (ClickUp):
+- Live site (Vercel): https://muhammadabubakarrizwan.vercel.app/
+- Repository: 
+- Project board (ClickUp): https://app.clickup.com/90182856504/dashboards/2kzn2btr-158
 - Loom walkthrough video:
 
 ## Certifications
 
-- Claude 101:
-- AI Fluency: Framework & Foundations:
-- AI Capabilities and Limitations:
-- AI Fluency for Students:
-- Claude Platform 101:
-- Claude Code 101:
-- Introduction to agent skills:
-- Introduction to subagents:
-- Claude Code in Action:
+- Claude 101: https://verify.skilljar.com/c/6vghbyemhgsy
+- AI Fluency: Framework & Foundations: https://verify.skilljar.com/c/u62r6igysas2
+- AI Capabilities and Limitations: https://verify.skilljar.com/c/a5icbwzkiocj
+- AI Fluency for Students: https://verify.skilljar.com/c/b2ve26jk7rvx
+- Claude Platform 101: https://verify.skilljar.com/c/v6u3a25rw829
+- Claude Code 101: https://verify.skilljar.com/c/zydtzg46drua
+- Introduction to agent skills: https://verify.skilljar.com/c/3539a83vxf3g
+- Introduction to subagents: https://verify.skilljar.com/c/guab7gborfwv
+- Claude Code in Action: https://verify.skilljar.com/c/jzhy8vs88apj
 
 ## Artifacts
 
